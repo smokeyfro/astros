@@ -1,17 +1,8 @@
 ---
 title: Abyangha
-draft: false
-author: Jon Doe
-tags:
-  - TikTok
-  - socialmedia
-  - advertising
 image:
   src: /images/abyangha.svg
   alt: Abyangha
-snippet: Nel mondo del marketing sui social media, un nuovo player sta avendo un impatto significativo TikTok. Questa guida esplora il potenziale degli annunci su TikTok e come sfruttarli efficacemente
-publishDate: 2023-06-29 11:39
-category: Marketing
 ---
 Characteristic of the Abyangha, a total body massage, is the use of warm oil containing various therapeutic medicinal herbs. This brings the body and mind to rest and deep relaxation, eliminates disturbances and activates the metabolism so that waste products are discharged through the body faster and more efficiently. 
 

@@ -1,17 +1,8 @@
 ---
 title: Marma
-draft: false
-author: Jon Doe
-tags:
-  - astro
-  - frontend
-  - webdev
 image:
   src: /images/astrojs.png
   alt: Astro JS, un nuovo Framework Front-End
-snippet: Astro è un moderno framework front-end che porta un interessante cambiamento di paradigma nello sviluppo di applicazioni web, concentrandosi sull'invio di meno JavaScript e sfruttando le funzionalità moderne del browser.
-publishDate: 2023-07-01 22:50
-category: Frameworks
 ---
 Astro è un moderno framework front-end che fornisce agli sviluppatori un modo più veloce per costruire siti web. Porta un interessante cambiamento di paradigma nel modo in cui pensiamo alla costruzione di moderne applicazioni web.
 

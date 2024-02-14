@@ -1,16 +1,8 @@
 ---
 title: Pindasvedana
-draft: false
-author: Jon Doe
-tags:
-  - alpinejs
-  - frontend
 image:
   src: /images/alpinjs.png
   alt: Alpine.js
-snippet: Alpine.js è un framework JavaScript leggero per la costruzione di componenti front-end interattivi con semplicità e flessibilità.
-publishDate: 2023-07-01 23:08
-category: Frameworks
 ---
 Alpine.js è un framework JavaScript leggero utilizzato per costruire componenti front-end interattivi. È snello, facile da usare e sfrutta la potenza dell'interattività di Vue o React, con la semplicità dell'uso delle classi Tailwind CSS.
 

@@ -1,16 +1,8 @@
 ---
 title: Vierhandsmassage
-draft: false
-author: Jon Doe
-tags:
-  - tailwindcss
-  - webdev
 image:
   alt: Tailwind CSS
   src: /images/tailwind.png
-snippet: Tailwind CSS is a utility-first CSS framework that allows you to construct bespoke designs without any opinionated styles, offering flexibility and granular control over your styles.
-publishDate: 2023-07-01 22:56
-category: Frameworks
 ---
 Tailwind CSS is a utility-first CSS framework packed with classes like `flex`, `pt-4`, `text-center` and `rotate-90` that can be composed to build any design, directly in your markup. 
 

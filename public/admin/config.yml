@@ -18,10 +18,10 @@ i18n:
     default_locale: "en"
 
 collections:
-    - name: "posts"
+    - name: "massage"
       i18n: true
       label: "Massage"
-      folder: "src/content/blog"
+      folder: "src/content/massage"
       create: true
       delete: true
       fields:

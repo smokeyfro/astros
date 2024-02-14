@@ -1,17 +1,8 @@
 ---
 title: Abyangha
-draft: false
-author: Jon Doe
-tags:
-  - TikTok
-  - socialmedia
-  - advertising
 image:
   src: /images/abyangha.svg
   alt: Abyangha
-snippet: In the world of social media marketing, a new player is making a significant impact TikTok. This guide explores the potential of TikTok ads and how to harness them effectively
-publishDate: 2023-06-29 11:39
-category: Marketing
 ---
 Kenmerkend voor de Abyangha, een totale lichaamsmassage,  is het gebruik van warme olie die verschillende therapeutische geneeskrachtige kruiden bevat. Hierdoor worden lichaam en geest tot rust en diepe ontspanning gebracht, opgetreden storingen opgeheven en de stofwisseling geactiveerd waardoor afvalstoffen sneller en efficiënter door het lichaam worden afgevoerd. 
 
