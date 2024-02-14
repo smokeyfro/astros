@@ -7,7 +7,7 @@ tags:
   - socialmedia
   - advertising
 image:
-  src: /images/tailwind.png
+  src: /images/abyangha.svg
   alt: Abyangha
 snippet: Nel mondo del marketing sui social media, un nuovo player sta avendo un impatto significativo TikTok. Questa guida esplora il potenziale degli annunci su TikTok e come sfruttarli efficacemente
 publishDate: 2023-06-29 11:39
