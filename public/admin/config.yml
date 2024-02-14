@@ -4,18 +4,18 @@ logo_url: /logo.svg
 
 backend:
     name: "github"
-    repo: zankhq/astros
+    repo: smokeyfro/astros
     branch: main
-    base_url: https://cms.majestico.workers.dev
-    automatic_deployments: false
+    base_url: https://sveltia-cms-auth.chris-a04.workers.dev
+    automatic_deployments: true
 
 media_folder: "public/images"
 public_folder: "/images"
 
 i18n:
     structure: "multiple_folders"
-    locales: ["en", "it"]
-    default_locale: "en"
+    locales: ["en", "nl"]
+    default_locale: "nl"
 
 collections:
     - name: "posts"
