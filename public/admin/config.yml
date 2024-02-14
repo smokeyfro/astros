@@ -44,3 +44,17 @@ collections:
             widget: "markdown"
             label: "Post Body"
             i18n: true
+  - name: "metadata"
+    label: "Settings"
+    icon: "settings"
+    extension: "yml"
+    format: "yml"
+    files:
+      - file: "src/content/settings.yml"
+        label: "Site metadata"
+        name: "metadata"
+        fields:
+          - { label: "Site Title", name: "title", widget: "string", hint: "Your site's title, used for branding and SEO." }
+          - { label: "Site Description", name: "description", widget: "text", hint: "Your site's description, used for SEO." }
+          - { label: "Site URL", name: "url", widget: "string", hint: "Your live site's full URL." }
+          - { label: "Language", name: "language", widget: "string", hint: "The language your site is written in." }
