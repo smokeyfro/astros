@@ -27,12 +27,8 @@ collections:
       fields:
           - name: "title"
             widget: "string"
-            label: "Post Title"
+            label: "Title"
             i18n: true
-          - label: "Draft"
-            name: "draft"
-            widget: "boolean"
-            i18n: "duplicate"
           - label: "Image"
             name: "image"
             widget: "object"
@@ -42,7 +38,7 @@ collections:
                 - { label: Alt Text, name: alt, widget: string, i18n: true }
           - name: "body"
             widget: "markdown"
-            label: "Post Body"
+            label: "Content"
             i18n: true
   - name: "metadata"
     label: "Settings"
