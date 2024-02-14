@@ -1,5 +1,5 @@
 ---
-title: Unleashing the Power of Tailwind CSS
+title: Vierhandsmassage
 draft: false
 author: Jon Doe
 tags:
@@ -8,9 +8,7 @@ tags:
 image:
   alt: Tailwind CSS
   src: /images/tailwind.png
-snippet: Tailwind CSS is a utility-first CSS framework that allows you to
-  construct bespoke designs without any opinionated styles, offering flexibility
-  and granular control over your styles.
+snippet: Tailwind CSS is a utility-first CSS framework that allows you to construct bespoke designs without any opinionated styles, offering flexibility and granular control over your styles.
 publishDate: 2023-07-01 22:56
 category: Frameworks
 ---
