@@ -1,5 +1,5 @@
 ---
-title: Il potere e il potenziale di ChatGPT
+title: Shirodhara
 draft: false
 author: Jon Doe
 tags:
@@ -9,10 +9,7 @@ tags:
 image:
   src: /images/chat-gpt.png
   alt: chatgpt
-snippet: Svelando il mondo dell'IA avanzata con ChatGPT, un sofisticato chatbot
-  che utilizza l'apprendimento automatico per generare testo simile a quello
-  umano. Scopri le sue applicazioni, i punti di forza, i limiti e il potenziale
-  futuro.
+snippet: Svelando il mondo dell'IA avanzata con ChatGPT, un sofisticato chatbot che utilizza l'apprendimento automatico per generare testo simile a quello umano. Scopri le sue applicazioni, i punti di forza, i limiti e il potenziale futuro.
 publishDate: 2023-07-01 00:00
 category: IA e ML
 ---
